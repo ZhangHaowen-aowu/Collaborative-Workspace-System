@@ -1,4 +1,5 @@
-# Collaborative-Workspace-System (2025 Sem 1, Supervisor: Dr Lau)
+# Collaborative-Workspace-System 
+## (2025 Sem 1, Supervisor: Dr Lau)
 This project aims to develop a collaborative workspace system.  The system allows 
 users to define a project, member and project task.  It provides functions of project 
 scheduling, profiling and roles, progress tracking and status, and document 
